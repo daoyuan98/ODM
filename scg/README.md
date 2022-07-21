@@ -1,8 +1,5 @@
 # Spatially Conditioned Graphs
-## Note: this is provided by the anthors of SCG
-Official PyTorch implementation for our paper [Spatially Conditioned Graphs for Detecting Human-Object Interactions](https://arxiv.org/pdf/2012.06060.pdf)
-
-
+## Note: this is mainly provided by the anthors of SCG
 
 ## Table of Contents
 
